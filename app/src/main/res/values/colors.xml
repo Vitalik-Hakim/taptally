@@ -1,0 +1,12 @@
+<resources>
+    <color name="bg">#F5F3EE</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_pressed">#ECE9E2</color>
+    <color name="stroke">#E2DED5</color>
+    <color name="text">#1A1A1E</color>
+    <color name="text_muted">#6E6C68</color>
+    <color name="accent">#3D5AFE</color>
+    <color name="accent_pressed">#2F47D6</color>
+    <color name="on_accent">#FFFFFF</color>
+    <color name="ic_bg">#3D5AFE</color>
+</resources>

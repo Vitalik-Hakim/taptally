@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TapTally</string>
+    <string name="tap_hint">Tap anywhere to count</string>
+    <string name="total_taps">%1$s taps all time</string>
+    <string name="reset">Reset</string>
+    <string name="reset_title">Reset counter?</string>
+    <string name="reset_message">Your count will go back to zero.</string>
+    <string name="plus_desc">Add one</string>
+    <string name="minus_desc">Subtract one</string>
+</resources>
